@@ -1,0 +1,22 @@
+{
+    "name": "Engineer's Career",
+    "short_name": "Joke WebApp",
+    "description": "As they say laughter is the best Medicine, so here you go get a joke when you feel low!",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "rgb(35, 34, 34)",
+    "theme_color": "rgb(35, 34, 34)",
+    "icons": [
+      {
+        "src": "./images/laugh.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      },
+      {
+        "src": "./images/laugh.png",
+        "sizes": "192x192",
+        "type": "image/png",
+        "purpose": "maskable"
+      }
+    ]
+  }
