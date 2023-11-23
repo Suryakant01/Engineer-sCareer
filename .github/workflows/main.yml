@@ -1,4 +1,5 @@
-- name: Minify JS and CSS
+-name: Minify JS and CSS
   run: |
     npx gulp minifyJS
     npx gulp minifyCSS
+
